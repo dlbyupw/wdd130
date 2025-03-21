@@ -9,7 +9,7 @@ nav a {
     padding: 20px;
 }
 
-hl {
+h1 {
     color:midnightblue;
 }
 
@@ -32,19 +32,17 @@ main {
 aside {
     width: 20rem;
     margin: 1rem;
-    border: 1px solid rgb(0, 0, 0 / 0.2); /* */
+    border: 1px solid rgb(0, 0, 0 / 0.2);
     padding: 1rem;
     background-color: #eee;
     color: #333;
     text-align: center;
 }
 
-aside img {
+main img {
     width: 200px;
     height: auto;
-    ... 
 }
-
 
 p {
     padding: 0; }
@@ -53,4 +51,4 @@ p {
         margin-top: 15px;
         border-top: 1px solid #000;
         text-align: center;
-    }
+    } 
